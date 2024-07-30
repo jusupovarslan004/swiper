@@ -1,0 +1,54 @@
+.one_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl1.jpg");
+    background-size: cover;
+}
+.two_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl2.jpg");
+    background-size: cover;
+}
+.three_gril{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl3.jpg");
+    background-size: cover;
+}
+.four_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl4.jpg");
+    background-size: cover;
+}
+.five_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl5.jpg");
+    background-size: cover;
+}
+.six_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl6.jpg");
+    background-size: cover;
+}
+.seven_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl7.jpg");
+    background-size: cover;
+}
+.eight_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl8.jpg");
+    background-size: cover;
+}
+.nine_girl{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../../assets/girl/girl9.jpg");
+    background-size: cover;
+}
